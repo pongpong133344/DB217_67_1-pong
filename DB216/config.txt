@@ -1,0 +1,6 @@
+Host *
+  IdentitiesOnly=yes
+
+Host 67112607.github.com
+  Hostname github.com
+  IdentityFile ~/.ssh/id_r67112607
